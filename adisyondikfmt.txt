@@ -1,0 +1,9 @@
+25=10=00=D=
+1=6=3=6=[Doner]=50gr=100gr=150gr=200gr=250gr=300gr
+1=6=7=10=[Tavuk]=50gr=100gr=150gr=200gr=250gr=300gr
+8=13=3=6=[Et]=50gr=100gr=150gr=200gr=250gr=300gr
+8=13=7=10=[Kofte]=50gr=100gr=150gr=200gr=250gr=300gr
+15=19=3=5=[Yan Urunler]=Corba=Salata=IcliKofte=Patates=Tatli
+15=19=8=10=[Tatlilar]=Kadayif=sutlac=Tiramisu=Baklava=Kunefe
+21=25=3=5=[Icecekler]=Ayran=Kola=Salgam=Su=icetea
+21=25=6=10=[Notlar]
